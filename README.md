@@ -5,7 +5,7 @@ Explanation of files:
 **wtp53_all_HDCOK_output and R273H_all_HDCOK_output**
 - All output files from all HDOCK predictions for wild type p53 and mutp53 respectively, compressed
 
-- **validating_with_2ATA_pro_struct_and_na_seq**
+**validating_with_2ATA_pro_struct_and_na_seq**
 - All output files for validating HDOCK prediction of a known crystal structure from the PDB database (PDB code 2ATA), compressed
 
 **wt_out and mut_out**
